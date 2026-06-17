@@ -1,3 +1,5 @@
+![Full Stack Developer Banner](./banner.png)
+
 # Hi, I'm Lisandro Mosconi 👋
 
 ## Full Stack Developer | Digital Artist
